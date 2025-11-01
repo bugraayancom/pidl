@@ -1,0 +1,119 @@
+[
+  {
+    "user_id": "76e6d129-508d-4392-b937-8142cef905e7",
+    "domain": "technical",
+    "level": "novice",
+    "score": 5.0,
+    "assessment_date": "2025-10-03T22:46:52.063388",
+    "responses": {
+      "tech_1": 5,
+      "tech_2": 5,
+      "tech_3": 5,
+      "tech_4": 5,
+      "tech_5": 5
+    },
+    "recommended_personas": [
+      "edu_1",
+      "edu_2",
+      "edu_4"
+    ]
+  },
+  {
+    "user_id": "49cd0354-e6b7-462d-9240-9b3a40a3556d",
+    "domain": "technical",
+    "level": "competent",
+    "score": 53.0,
+    "assessment_date": "2025-10-03T22:47:14.401466",
+    "responses": {
+      "tech_1": 60,
+      "tech_2": 60,
+      "tech_3": 60,
+      "tech_4": 30,
+      "tech_5": 5,
+      "prompt_experience": true
+    },
+    "recommended_personas": [
+      "tech_1",
+      "edu_3",
+      "tech_4"
+    ]
+  },
+  {
+    "user_id": "8ae1a89d-be9d-4773-8ca6-10230a49646f",
+    "domain": "technical",
+    "level": "novice",
+    "score": 5.0,
+    "assessment_date": "2025-10-03T23:44:46.442505",
+    "responses": {
+      "tech_1": 5,
+      "tech_2": 5,
+      "tech_3": 5,
+      "tech_4": 5,
+      "tech_5": 5
+    },
+    "recommended_personas": [
+      "edu_1",
+      "edu_2",
+      "edu_4"
+    ]
+  },
+  {
+    "user_id": "f48a2554-08a6-494f-8b6d-2cc07836552b",
+    "domain": "technical",
+    "level": "competent",
+    "score": 47.0,
+    "assessment_date": "2025-10-03T23:46:16.254164",
+    "responses": {
+      "tech_1": 60,
+      "tech_2": 5,
+      "tech_3": 60,
+      "tech_4": 5,
+      "tech_5": 5,
+      "ai_experience": true,
+      "prompt_experience": true
+    },
+    "recommended_personas": [
+      "tech_1",
+      "edu_3",
+      "tech_4"
+    ]
+  },
+  {
+    "user_id": "8205380a-c328-4578-bbb7-0d7dc25fa140",
+    "domain": "technical",
+    "level": "novice",
+    "score": 5.0,
+    "assessment_date": "2025-10-04T12:08:29.114406",
+    "responses": {
+      "tech_1": 5,
+      "tech_2": 5,
+      "tech_3": 5,
+      "tech_4": 5,
+      "tech_5": 5
+    },
+    "recommended_personas": [
+      "edu_1",
+      "edu_2",
+      "edu_4"
+    ]
+  },
+  {
+    "user_id": "568c8193-bc49-4820-878e-1a178fe91064",
+    "domain": "technical",
+    "level": "novice",
+    "score": 5.0,
+    "assessment_date": "2025-10-04T12:31:43.260434",
+    "responses": {
+      "tech_1": 5,
+      "tech_2": 5,
+      "tech_3": 5,
+      "tech_4": 5,
+      "tech_5": 5
+    },
+    "recommended_personas": [
+      "edu_1",
+      "edu_2",
+      "edu_4"
+    ]
+  }
+]
